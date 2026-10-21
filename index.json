@@ -1,0 +1,11 @@
+{
+  "org": "scverse",
+  "repo": "gpu-ci-config",
+  "versions": [
+    {
+      "commit": "d877dcfddbcda55c8bfbe0c21490814f2f23e6f5",
+      "tag": "",
+      "parsed_at": "2026-10-21T21:20:59.065121+00:00"
+    }
+  ]
+}
