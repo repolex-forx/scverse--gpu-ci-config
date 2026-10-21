@@ -1,0 +1,35 @@
+{
+  "manifest_version": "1.0",
+  "org": "scverse",
+  "repo": "gpu-ci-config",
+  "versions": [
+    {
+      "commit": "d877dcfddbcda55c8bfbe0c21490814f2f23e6f5",
+      "parsed_at": "2026-10-21T21:18:42.051524+00:00",
+      "filetree": "filetree/d877dcfddbcda55c8bfbe0c21490814f2f23e6f5.nq.gz",
+      "blobs": [
+        "blob/9fc36fa8109b70fcd952d2b40054c440d52a3843.nq.gz",
+        "blob/210a4ba7dcd626f689adde710db636a76ae2259d.nq.gz",
+        "blob/400dfd7e94a5ce63c4ecee4214e32ec257b22a90.nq.gz",
+        "blob/ba06b1dfa4429ed1f14d43b15c27687d9d092c39.nq.gz",
+        "blob/62f464718f6bf43eeae877c0968d4a0a4297dcbd.nq.gz",
+        "blob/7539c5b71275841b15ad8c2f1f050c2e2127a0b2.nq.gz",
+        "blob/a16c1849f103d65e6ec8090a8665f564828134e0.nq.gz",
+        "blob/16d65c73f55691bab0e10d51d5f59bbc78e57608.nq.gz",
+        "blob/01e842ee07a8b3fb1f9f51c3ea2bd4d60ea5a07d.nq.gz",
+        "blob/34fdb2464e5e4495148846477de54a60b119f144.nq.gz",
+        "blob/c4f45b67a0d976b8d07f91080ad6b2f552d99a8b.nq.gz",
+        "blob/13505d522b3ced237eaded3a5f646f83a8590f0d.nq.gz",
+        "blob/9cbb9b7c4e39ff2b928bcd62b2d0316e944caee5.nq.gz",
+        "blob/6930e502c819b56e48318dc8d274b67269017fa1.nq.gz",
+        "blob/11965977cd0e477632d406e339bc55d05addc583.nq.gz",
+        "blob/a0367779cf62d62eb43d26be8bf8844cbba467f7.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
